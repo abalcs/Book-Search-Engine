@@ -67,4 +67,4 @@ const resolvers = {
     }
 };
 
-modlue.exports = resolvers;
+module.exports = resolvers;
