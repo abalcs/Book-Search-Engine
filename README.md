@@ -16,9 +16,9 @@
 
 This app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and a GraphQL API built with Apollo Server. 
 
-![Book-Search-Engine](./Assets/booksearch.png)
+![Book-Search-Engine](..Assets/booksearch.png)
 
-[Link to Deployed App]()
+[Link to Deployed App](https://book-search-mernstack.herokuapp.com/)
 
 ## Installation:
 n/a
